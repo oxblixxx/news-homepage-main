@@ -5,6 +5,8 @@ li{
 ul{
     color: red;
     display: flex;
+    justify-content: flex-end;
+    margin-right: 10em;
 }
 
 nav{
@@ -17,7 +19,13 @@ nav{
 .nav-logo{
     background-image: url(../assets/images/logo.svg);
     width: 90px;
+    position: relative;
+    right: 34em;
     height: 90px;
     text-indent: -9999999999px;
     background-repeat: no-repeat;
+}
+
+#nav-links{
+    flex-grow: 0.05;    
 }
