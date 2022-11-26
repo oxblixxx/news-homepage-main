@@ -5,26 +5,37 @@
     background-repeat: no-repeat;
     margin-left: 118px;
     text-indent: -999999px;
-    width: 48em;
+    width: 45em;
 }
 
 
 .web-three-objective{
     /* background-color: red; */
-    width: 48em;
+    width: 45em;
     margin-left: 118px;
     height: 12em;
+    bottom: 40px;
+    position: relative;
     display: flex;
-
 }
 
 .future-text{
     font-weight: 800;
     font-size: 3em;
-    margin-bottom: 3px; 
+    top: 100px; 
 }
 
 .future-description{
-    margin-top: 10px;
-    margin-left: 10em;
+    margin-top: 28px;
+    margin-left: 6em;
+}
+
+.btn{
+    width: 14em;
+    padding: 20px;
+    position: relative;
+    top: 18px;
+    background-color: hsl(5, 85%, 63%);
+    border: hsl(5, 85%, 63%);
+    color:  hsl(36, 100%, 99%);
 }

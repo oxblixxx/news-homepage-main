@@ -2,20 +2,28 @@ aside{
     background-color: hsl(240, 100%, 5%);
     height: 34em;
     float: right;
-    right: 9em;
+    right: 7em;
     bottom: 20em;
     position: relative;
-    width: 24em;
+    width: 23em;
     color: white;
 }
 
 .aside-contents{
-    padding: 2.4em;
+    padding: 25px;
+    top: 5px;
+    position: relative;
 }
 
 .new-text{
     color: hsl(35, 77%, 62%);
     font-weight: 800;
+}
+
+p{
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
 }
 
 
