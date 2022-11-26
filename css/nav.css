@@ -1,0 +1,21 @@
+li{
+    list-style-type: none;
+}
+
+ul{
+    color: red;
+    display: flex;
+}
+
+nav{
+    color: red;
+}
+
+
+.nav-logo{
+    background-image: url(../assets/images/logo.svg);
+    width: 90px;
+    height: 90px;
+    text-indent: -9999999999px;
+    background-repeat: no-repeat;
+}
