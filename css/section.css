@@ -5,13 +5,13 @@
     background-repeat: no-repeat;
     margin-left: 118px;
     text-indent: -999999px;
-    width: 49em;
+    width: 48em;
 }
 
 
 .web-three-objective{
     /* background-color: red; */
-    width: 42em;
+    width: 48em;
     margin-left: 118px;
     height: 12em;
     display: flex;
@@ -26,5 +26,5 @@
 
 .future-description{
     margin-top: 10px;
-    margin-left: 4em;
+    margin-left: 10em;
 }
