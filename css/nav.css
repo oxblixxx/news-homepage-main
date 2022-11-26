@@ -1,16 +1,17 @@
 li{
     list-style-type: none;
+    color: hsl(236, 13%, 42%);
+    font-family: Inter;
+    font-weight: 400;
 }
 
 ul{
-    color: red;
     display: flex;
     justify-content: flex-end;
     margin-right: 10em;
 }
 
 nav{
-    color: red;
     margin-top: 4em;
     margin-left: 5em;
 }
