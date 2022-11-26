@@ -11,13 +11,13 @@ ul{
     margin-right: 10em;
 }
 
-nav{
+header{
     margin-top: 4em;
     margin-left: 5em;
 }
 
 
-.nav-logo{
+.header-logo{
     background-image: url(../assets/images/logo.svg);
     width: 90px;
     position: relative;
@@ -27,6 +27,6 @@ nav{
     background-repeat: no-repeat;
 }
 
-#nav-links{
+#header-links{
     flex-grow: 0.05;    
 }
