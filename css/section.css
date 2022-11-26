@@ -9,4 +9,13 @@
 
 .web-three-objective{
     background-color: red;
+    width: 42em;
+    margin-left: 118px;
+    height: 12em;
+    display: flex;
+
+}
+
+.future{
+    font-weight: 800;
 }
