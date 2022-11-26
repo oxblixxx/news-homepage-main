@@ -13,6 +13,7 @@ aside{
     padding: 2.4em;
 }
 
-h1{
+.new-text{
     color: hsl(35, 77%, 62%);
+    font-weight: 800;
 }

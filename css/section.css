@@ -1,7 +1,12 @@
-section{
+.web-three-image{
     background-image: url(../assets/images/image-web-3-desktop.jpg);
     height: 20em;
     margin-left: 118px;
     text-indent: -999999px;
     width: 42em;
+}
+
+
+.web-three-objective{
+    background-color: red;
 }
