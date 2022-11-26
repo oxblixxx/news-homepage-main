@@ -1,8 +1,14 @@
+header{
+    margin-left: 5em;
+    margin-top: 4em;
+}
+
+
 li{
-    list-style-type: none;
     color: hsl(236, 13%, 42%);
     font-family: Inter;
     font-weight: 400;
+    list-style-type: none;
 }
 
 ul{
@@ -11,20 +17,16 @@ ul{
     margin-right: 10em;
 }
 
-header{
-    margin-top: 4em;
-    margin-left: 5em;
-}
 
 
 .header-logo{
     background-image: url(../assets/images/logo.svg);
-    width: 90px;
+    background-repeat: no-repeat;
+    height: 90px;
     position: relative;
     right: 34em;
-    height: 90px;
     text-indent: -9999999999px;
-    background-repeat: no-repeat;
+    width: 90px;
 }
 
 #header-links{
