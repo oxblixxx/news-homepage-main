@@ -1,6 +1,9 @@
 aside{
-    background-color: red;
-    height: 10px;
+    background-color: hsl(240, 100%, 5%);
+    height: 10em;
     float: right;
-    width: 10px;
+    right: 9em;
+    bottom: 20em;
+    position: relative;
+    width: 25em;
 }
