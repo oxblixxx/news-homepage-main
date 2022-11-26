@@ -1,9 +1,18 @@
 aside{
     background-color: hsl(240, 100%, 5%);
-    height: 10em;
+    height: 35em;
     float: right;
     right: 9em;
     bottom: 20em;
     position: relative;
-    width: 25em;
+    width: 24em;
+    color: white;
+}
+
+.aside-contents{
+    padding: 2.4em;
+}
+
+h1{
+    color: hsl(35, 77%, 62%);
 }
