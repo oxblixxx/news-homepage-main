@@ -1,14 +1,16 @@
 .web-three-image{
     background-image: url(../assets/images/image-web-3-desktop.jpg);
     height: 20em;
+    background-size: contain;
+    background-repeat: no-repeat;
     margin-left: 118px;
     text-indent: -999999px;
-    width: 42em;
+    width: 49em;
 }
 
 
 .web-three-objective{
-    background-color: red;
+    /* background-color: red; */
     width: 42em;
     margin-left: 118px;
     height: 12em;
@@ -16,6 +18,13 @@
 
 }
 
-.future{
+.future-text{
     font-weight: 800;
+    font-size: 3em;
+    margin-bottom: 3px; 
+}
+
+.future-description{
+    margin-top: 10px;
+    margin-left: 4em;
 }
