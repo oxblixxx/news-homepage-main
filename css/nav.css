@@ -1,12 +1,11 @@
 .images-container{
-    margin: 60px;
-    margin-left: 110px;
+    /* margin: 44px; */
 }
 
 figure img{
-    width: 8em;
-    height: 30%;
-    vertical-align: middle;  
+    width: 6em;
+    height: 70%;
+    /* vertical-align: middle;   */
 }
 
 nav{
@@ -16,11 +15,12 @@ nav{
 
 figure{
     display: flex;
-    flex-grow: 1;
+    /* flex-grow: 1s; */
+    margin-left: 110px;
 }
 
 figure figcaption{
-    /* background-color: red; */
+    background-color: red;
     width: max-content;
     /* padding: 0px; */
     margin-left: 20px;
@@ -28,4 +28,10 @@ figure figcaption{
 
 figure figcaption h1{
     margin-top: -2px;
+}
+
+figure figcaption h2{
+    /* font-weight: 400; */
+    font-size: 14px;
+
 }
