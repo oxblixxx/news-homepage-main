@@ -26,13 +26,13 @@ ul{
     background-repeat: no-repeat;
     height: 90px;
     position: relative;
-    right: 34em;
+    right: 29em;
     text-indent: -9999999999px;
     width: 90px;
 }
 
 #header-links{
-    flex-grow: 0.08;    
+    margin: 22px;
     position: relative;
     left: 4em;
 }
