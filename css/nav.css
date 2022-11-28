@@ -1,10 +1,12 @@
-.images-container{
+.images-container-two{
+    right: 130px;
+    position: relative;
     /* margin: 44px; */
 }
 
 figure img{
     width: 6em;
-    height: 70%;
+    height: 90%;
     /* vertical-align: middle;   */
 }
 
@@ -20,7 +22,7 @@ figure{
 }
 
 figure figcaption{
-    background-color: red;
+    /* background-color: red; */
     width: max-content;
     /* padding: 0px; */
     margin-left: 20px;
