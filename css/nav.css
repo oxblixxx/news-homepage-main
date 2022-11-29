@@ -53,7 +53,16 @@ nav{
     nav{
         flex-direction: column;
         margin-top: 300px;
-    }   
+    } 
+    
+    .images-container-one{
+        position: relative;
+        right: 100px;
+    }
+
+    .images-container-three{
+        right: 90px;
+    }
 }
 
 
