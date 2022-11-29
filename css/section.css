@@ -55,9 +55,19 @@
         height: 332px;
     }
 
+    section h1 br{
+        display: none;
+    }
+
     .web-three-objective{
         bottom: 550px;  
         right: 106px;
+        width: 400px;
         flex-direction: column;      
     }
+
+    .future-text{
+        font-size: ;
+    }
+    
 }
