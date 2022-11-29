@@ -63,6 +63,16 @@ nav{
     .images-container-three{
         right: 90px;
     }
+
+    figure img{
+        height: 12em;
+        width: 17em; 
+    }
+
+    nav figure figcaption{
+        flex-wrap: nowrap;
+        background-color: red;
+    }
 }
 
 
