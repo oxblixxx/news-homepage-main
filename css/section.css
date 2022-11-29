@@ -60,14 +60,26 @@
     }
 
     .web-three-objective{
-        bottom: 550px;  
+        bottom: 560px;  
         right: 106px;
         width: 400px;
         flex-direction: column;      
     }
+    
+    .future-description{
+        right: 8em;
+        bottom: 60px;
+        position: relative;
+        width: 30em;
+        /* background-color: red; */
+    }
 
-    .future-text{
-        font-size: ;
+    .btn{
+        top: 16px;
+    }
+
+    p{
+        font-size: 17px;
     }
     
 }
