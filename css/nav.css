@@ -1,6 +1,6 @@
-
 figure{
     display: flex;
+    margin-top: 50px;
     margin-left: 110px;
 }
 
@@ -14,9 +14,16 @@ figure figcaption h1{
 }
 
 figure figcaption h2{
-    font-size: 14px;
+    font-weight: 700;
+    font-size: 17px;
 
 }
+
+figure figcaption h2:hover{
+    color: hsl(5, 85%, 63%);
+}
+
+
 
 figure img{
     width: 6em;
@@ -29,12 +36,12 @@ nav{
 }
 
 .images-container-two{
-    right: 130px;
+    right: 96px;
     position: relative;
     /* margin: 44px; */
 }
 
 .images-container-three{
-    right: 161px;
+    right: 180px;
     position: relative;
 }
