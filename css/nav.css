@@ -49,6 +49,13 @@ nav{
 /*=============================================
 =            Responsiveness                   =
 =============================================*/
+@media screen and (min-width: 414px) and (max-width: 687px){
+    nav{
+        flex-direction: column;
+        margin-top: 300px;
+    }   
+}
+
 
 @media screen and (min-width: 1440px){
 .images-container-three{
