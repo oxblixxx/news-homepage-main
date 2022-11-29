@@ -54,6 +54,32 @@ ul{
 /*=============================================
 =            Responsiveness                   =
 =============================================*/
+@media screen and (min-width: 414px) and (max-width: 488px) {
+    #header-links{
+        /* visibility: hidden; */
+        /* background-image: url(../assets/images/icon-menu.svg); */
+    } 
+
+    header{
+        margin-left: 60em;
+    }
+    
+    .header-logo{
+        background-color: red;
+        width: 7em;
+        height: 100px;
+        text-indent: -2px;
+    }
+
+    #header-links{
+        background-color: aqua;
+    }
+
+
+}
+
+
+
 
 @media screen and (min-width: 1440px){
 .header-logo{

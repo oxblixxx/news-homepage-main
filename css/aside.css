@@ -30,6 +30,15 @@ p{
 /*=============================================
 =            Responsiveness                   =
 =============================================*/
+@media screen and (min-width: 414px) and (max-width: 688px) {
+    aside{
+        top: 40em;
+        left: -1em;
+    }
+}
+
+
+
 
 @media screen and (min-width: 1440px){
 aside{
@@ -37,3 +46,4 @@ aside{
 }
 
 }
+

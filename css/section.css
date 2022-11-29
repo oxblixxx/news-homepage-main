@@ -39,3 +39,25 @@
     border: hsl(5, 85%, 63%);
     color:  hsl(36, 100%, 99%);
 }
+
+
+
+/*=============================================
+=            Responsiveness                   =
+=============================================*/
+
+@media screen and (min-width: 414px) and (max-width: 687px) {
+    .web-three-image{
+        margin-left: 14px;
+        width: 380px;
+        background-image: url(../assets/images/image-web-3-mobile.jpg);
+        background-size: contain;
+        height: 332px;
+    }
+
+    .web-three-objective{
+        bottom: 550px;  
+        right: 106px;
+        flex-direction: column;      
+    }
+}
