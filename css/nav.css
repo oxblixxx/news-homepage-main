@@ -46,5 +46,13 @@ nav{
     position: relative;
 }
 
+/*=============================================
+=            Responsiveness                   =
+=============================================*/
 
-okay
+@media screen and (max-width: 1440px){
+.images-container-three{
+    margin-right: 10px;
+    position: relative;
+}
+}

@@ -48,3 +48,22 @@ ul{
     position: relative;
     left: 4em;
 }
+
+
+
+/*=============================================
+=            Responsiveness                   =
+=============================================*/
+
+@media screen and (max-width: 1440px){
+.header-logo{
+    right: 34em;
+}
+
+#header-links{
+    left: -1px;
+}
+
+}
+
+
