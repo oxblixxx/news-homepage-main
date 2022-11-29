@@ -31,7 +31,7 @@ p{
 =            Responsiveness                   =
 =============================================*/
 
-@media screen and (max-width: 1440px){
+@media screen and (min-width: 1440px){
 aside{
     right: 11.3em;
 }

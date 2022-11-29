@@ -50,7 +50,7 @@ nav{
 =            Responsiveness                   =
 =============================================*/
 
-@media screen and (max-width: 1440px){
+@media screen and (min-width: 1440px){
 .images-container-three{
     margin-right: 10px;
     position: relative;
