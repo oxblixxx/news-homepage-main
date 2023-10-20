@@ -16,4 +16,4 @@
 .prettierignore
 
 terraform*
-aws
+aws*
